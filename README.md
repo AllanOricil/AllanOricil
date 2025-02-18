@@ -2,11 +2,15 @@
 
 I'm a passionate software engineer with experience with:
 
-- AWS Cloud Development Kit (CDK)
+- AWS
 - Node
 - Vue
 - Docker
+- Systems Design
 - CICD pipelines (Github Actions and Bitbucket pipelines)
+- And a lot more.
+
+My strengths in software engineering lie in creativity and problem-solving, while my weakness is algorithms. I'm not a leet coder or competitive programmer, and I'm sure that doesn't make me a bad engineer.
 
 
 ### 💼 Looking For
