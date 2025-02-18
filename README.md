@@ -1,16 +1,29 @@
-## Hi there 👋
+### 👨‍💻 About Me
 
-<!--
-**AllanOricil/AllanOricil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer with experience with:
 
-Here are some ideas to get you started:
+- AWS Cloud Development Kit (CDK)
+- Node
+- Vue
+- Docker
+- CICD pipelines (Github Actions and Bitbucket pipelines)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💼 Looking For
+
+I’m actively seeking opportunities to create products using:
+
+- AWS CDK for scalable infrastructure
+- JavaScript & Vue.js for frontend and full-stack applications
+- Serverless & Cloud architectures for high-availability solutions
+
+I have a preference to work for Startups
+
+<b>Work Type:</b> Remote | full-time
+
+
+### 📫 How to Reach Me
+
+📧 Email: allanoricilcos@outlook.com
+
+Let’s connect! I’m open to exciting projects and collaborations. 🚀
