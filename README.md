@@ -1,5 +1,7 @@
 ### 👨‍💻 About Me
 
+I have a bachelor's degree in Computer Engineering from `Universidade Federal de Itajuba`.
+
 I'm a passionate software engineer with experience with:
 
 - AWS
